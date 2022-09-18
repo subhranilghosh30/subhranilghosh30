@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, It's Subhranil Ghosh 👋
 
 <!--
 **subhranilghosh30/subhranilghosh30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
